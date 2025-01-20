@@ -44,7 +44,7 @@
 <p align="center">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
   Visitor's Count
-  <img align="center" src="https://profile-counter.glitch.me/XiaomingX/count.svg" alt="Visitor's Count" />
+  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
 </p>
 
