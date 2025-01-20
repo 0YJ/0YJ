@@ -66,9 +66,9 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/hadoop.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/apache_spark.svg"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/d7dc7821-dfed-4c1c-88b6-c651231ebd9c"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/70fc2f0c-e519-4062-9f7c-6943f740d347"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/748b5bc1-38d6-4b5f-bc5e-72ec613f5c13"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/aws"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/mysql"></code>
 
 #
 
@@ -80,12 +80,12 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/04ab2a37-3dd8-4df8-9f37-e46bc1031a38"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/4f15bf61-1071-4ffa-b903-3f335aceec98"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/1220ecd3-d364-4888-b4b8-6fe917f4e466"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/c97df4f9-6b9e-40c1-bc9f-70decd8ca998"></code>
-<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/de2e1163-e11d-44b8-a0b6-998228a72445"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/linux-tux"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/flask"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/r-lang.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/"></code>
 
 
 
