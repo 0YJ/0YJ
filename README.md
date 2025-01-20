@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0YJ" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0YJ" alt="GitHub Streak" /></a>
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
 </p>
 
