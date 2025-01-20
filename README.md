@@ -67,7 +67,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/hadoop.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/apache_spark.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/aws.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/postgresql.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/mysql.svg"></code>
 
 #
@@ -85,7 +85,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/linux-tux.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/flask.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/r-lang.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker.svg"></code>
 
 
 
