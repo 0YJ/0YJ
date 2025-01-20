@@ -43,6 +43,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=0YJ&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
   <img align="center" src="https://streak-stats.demolab.com?user=0YJ&theme=tokyonight&mode=weekly")/>
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
 </p>
