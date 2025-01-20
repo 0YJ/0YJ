@@ -147,7 +147,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-<img align="right" height="350px" width="450px" src="https://wakatime.com/share/@YJ/2e817bae-ce8a-4576-9aa6-c497c69a4609.svg" >
+<img align="right" height="350px" width="450px" src="https://wakatime.com/share/@YJ/47da8482-9580-45d2-a0cb-56b3106d08bc.svg" >
 <br>
 <br>
 
