@@ -46,6 +46,7 @@
   Views:
   <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
+  ![0YJ's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=0YJ&hide=B&theme=default)
 </p>
 
 #
