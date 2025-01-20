@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"/>
+  <img align="center" src=["https://github-readme-streak-stats.herokuapp.com/?user=0YJ&theme=dark&hide_border=true"](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0YJ&theme=tokyonight&mode=weekly" alt="GitHub Streak")/>
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
 </p>
 
