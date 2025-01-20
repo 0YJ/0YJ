@@ -66,9 +66,9 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/hadoop.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/apache_spark.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/aws"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/mysql"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/aws.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/mysql.svg"></code>
 
 #
 
@@ -82,8 +82,8 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/linux-tux"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/flask"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/linux-tux.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/flask.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/r-lang.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/"></code>
 
