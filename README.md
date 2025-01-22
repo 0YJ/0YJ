@@ -44,9 +44,10 @@
 <p align="center">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/SVG/stage.svg">
-    Viewers:
+  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp"> 
+  <br/>
+      Viewers:
   <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp">
 </p>
 
 #
