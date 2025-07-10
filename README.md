@@ -16,7 +16,7 @@
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His/J.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Hackers aren’t criminals. They’re the ones who think beyond limits, turn the impossible into possible, and share what they know. That’s the Hacker Spirit.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Hackers aren’t criminals. They’re the ones who think outside the box, turn the impossible into possible, and share what they know. That’s the Hacker Spirit.**
 
 <br/>
 <br/>
