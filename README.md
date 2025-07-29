@@ -38,8 +38,6 @@
   </code>
 </p> -->
 
-
-
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
@@ -48,9 +46,9 @@
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/SVG/stage.svg">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp"> 
 </p>
-
 -->
 
+#
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
