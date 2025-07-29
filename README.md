@@ -110,7 +110,7 @@
 
 ![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
-<h4 align="center">
+<!-- <h4 align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -134,7 +134,7 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>  
+</h4>  -->
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0YJ/0YJ/blob/master/github-contribution-grid-snake.svg)
 
