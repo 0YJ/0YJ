@@ -47,8 +47,8 @@
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/SVG/stage.svg">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp"> 
 </p>
--->
-#
+
+# -->
 
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
