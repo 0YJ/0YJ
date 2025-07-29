@@ -40,8 +40,9 @@
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-<!--
+
 <p align="center">
+<!--  
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/SVG/stage.svg">
   <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp"> 
