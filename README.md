@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="GIF/YJ.gif" height="255" width="720px" />
+<img src="GIF/YJ.gif" height="313" width="888px" />
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎, 𝙴𝚖𝚋𝚎𝚍𝚍𝚎𝚍 𝚂𝚢𝚜𝚝𝚎𝚖, 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙶𝚛𝚊𝚙𝚑𝚒𝚌𝚜 + 𝚅𝚒𝚜𝚒𝚘𝚗, 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐.**
