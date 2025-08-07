@@ -12,11 +12,11 @@
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science, Embeded System, Computer Graphics, Machine Learning.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AGI, DevOps, Competitve Programming.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His/J.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Hackers aren’t criminals. They’re the ones who think outside the box, turn the impossible into possible, and share what they know. That’s the Hacker Spirit.**
+- 📖 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AGI, DevOps, Competitve Programming.**
+- 🔗 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
+- ❓ 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💖 𝙷𝚘𝚋𝚋𝚢 : **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎, car 𝚖𝚎𝚌𝚑𝚊𝚗𝚒𝚌𝚜, 𝚏𝚒𝚝𝚗𝚎𝚜𝚜, 𝚛𝚘𝚌𝚔 𝚖𝚞𝚜𝚒𝚌**
+- ㊙️ 𝙲𝚛𝚎𝚎𝚍 : **Hackers aren’t criminals. They’re the ones who think outside the box, turn the impossible into possible, and share what they know. That’s the Hacker Spirit.**
 
 <br/>
 <br/>
