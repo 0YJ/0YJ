@@ -38,7 +38,7 @@
   </code>
 </p> -->
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://trophygh.kolioaris.xyz/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=false&no-frame=true&theme=discord)
 
 <p align="center">
 <!--  
