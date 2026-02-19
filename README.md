@@ -134,16 +134,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg" style="filter: invert(1);"/></code>
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg" style="filter: invert(1);"/></code>
+    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram.svg" style="filter: invert(1);"/></code>
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg" style="filter: invert(1);"/></code>
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/0YJ">
     <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
