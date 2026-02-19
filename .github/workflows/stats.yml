@@ -1,4 +1,4 @@
-name: Update README cards
+name: stats card
 on:
   schedule:
     - cron: "0 0 * * *"
