@@ -134,24 +134,6 @@
 <p align="center">
   <br>
   <a href="http://www.linkedin.com/in/yujie-zhang-198a18157" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin_dark.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/0YJZH" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook_dark.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/0.y.j.0/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram_dark.svg"/></code>
-  </a>
-  <a href="https://x.com/_0YJ_" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter_dark.svg"/></code>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <br>
-  <a href="http://www.linkedin.com/in/yujie-zhang-198a18157" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/0YJZH" target="_blank">
@@ -162,6 +144,24 @@
   </a>
   <a href="https://x.com/_0YJ_" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <br>
+  <a href="http://www.linkedin.com/in/yujie-zhang-198a18157" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin_dark.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/0YJZH" target="_blank">
+    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook_dark.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/0.y.j.0/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram_dark.svg"/></code>
+  </a>
+  <a href="https://x.com/_0YJ_" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter_dark.svg"/></code>
   </a>
 </p>
 
