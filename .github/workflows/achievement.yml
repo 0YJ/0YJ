@@ -1,27 +1,28 @@
-name: Compact display
+name: Favorites Characters
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+
+  push:
+    branches:
+      - main
+      - master
+
 jobs:
-  github-metrics:
+  generate-character-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Favorites Characters SVG
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.YJ }}
+          filename: metrics.plugin.anilist.characters.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
