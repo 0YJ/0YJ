@@ -145,32 +145,6 @@
   <a href="https://twitter.com/0YJ" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter_dark.svg"/></code>
   </a>
-  <a href="https://dev.to/0YJ">
-    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev_dark.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/he_dark.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/yjzh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/cc_dark.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/lc.webp"/></code>
-  </a>
 </p>
 
 <br/>
