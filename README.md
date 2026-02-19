@@ -133,16 +133,16 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
+  <a href="http://www.linkedin.com/in/yujie-zhang-198a18157" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin_dark.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+  <a href="https://www.facebook.com/0YJZH" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook_dark.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/0YJ/" target="_blank">
+  <a href="https://www.instagram.com/0.y.j.0/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram_dark.svg"/></code>
   </a>
-  <a href="https://twitter.com/0YJ" target="_blank">
+  <a href="https://x.com/_0YJ_" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter_dark.svg"/></code>
   </a>
 </p>
