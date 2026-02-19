@@ -102,7 +102,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="200px" src="stats/stats.svg"/>
-  <img width="350px" src="stats/top-langs.svg" />
+  <img width="380px" src="stats/top-langs.svg" />
 </div>
 
 </details>
