@@ -149,24 +149,6 @@
 
 <br/>
 
-<p align="center">
-  <br>
-  <a href="http://www.linkedin.com/in/yujie-zhang-198a18157" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin_dark.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/0YJZH" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook_dark.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/0.y.j.0/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram_dark.svg"/></code>
-  </a>
-  <a href="https://x.com/_0YJ_" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter_dark.svg"/></code>
-  </a>
-</p>
-
-<br/>
-
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
