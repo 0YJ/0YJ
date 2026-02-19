@@ -110,34 +110,6 @@
 
 ![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- <h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@      ,.,						@@
-@@  ('=(""")=')                                   	@@
-@@  '))|*_*|(('						@@
-@@  (' \ = / ')  Programming isn't about what you know	@@
-@@   ' _) (_ '	   It's about what you can figure out	@@
-@@   /|'~~~'|\	 					@@
-@@  /,(_   _),\	 	 .----------------------------.	@@
-@@  \\ \___/ //		 | while( ! (succed=try() ) ) |	@@
-@@   '\/   \/'		 '----------------------------'	@@
-@@    :__,__:						@@
-@@    \  /  /		        			@@
-@@     \/  /						@@
-@@     (  ;    	 Testing leads to failure		@@
-@@      \  \	  and failure leads to understanding 	@@
-@@       \ |						@@
-@@ 0YJ^  \\/)						@@
-@@     .//_/						@@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  -->
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0YJ/0YJ/blob/master/github-contribution-grid-snake.svg)
-
 <br/>
 
 #
