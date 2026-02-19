@@ -122,7 +122,7 @@
 <p align="center">
 
   <img width="75%" src="metrics.classic.svg"/>
-  <img src="metrics.plugin.isocalendar.svg" width="75%"/>
+  <img src="metrics.plugin.anilist.characters.svg" width="75%"/>
   <img src="metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
