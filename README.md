@@ -99,12 +99,10 @@
 </summary>
 <br/>
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="200px" src="stats/stats.svg"/>
-    <img width="355px" src="stats/top-langs.svg" />
-  </div>
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img height="200px" src="stats/stats.svg"/>
+  <img width="355px" src="stats/top-langs.svg" />
+</div>
 
 </details>
 <br/>
