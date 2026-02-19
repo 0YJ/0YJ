@@ -14,14 +14,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=0YJ&show_icons=true&theme=onedark
+          options: username=0YJ&show_icons=true&title_color=e4bf7a&icon_color=8eb573&text_color=df6d74&bg_color=282c34
           path: stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=0YJ&layout=compact&langs_count=6&theme=onedark
+          options: username=0YJ&layout=compact&langs_count=6&title_color=e4bf7a&icon_color=8eb573&text_color=df6d74&bg_color=282c34
           path: stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
