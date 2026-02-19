@@ -134,7 +134,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin_dark.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg"/></code>
